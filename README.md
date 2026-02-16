@@ -7,9 +7,9 @@ Aplikacija za predikciju MPG | km/l vrijednosti.
 ## Pokretanje
 1. Klonirajte repo:
 ```bash
-git clone <URL-repo-a>
-cd <folder-repo-a>
-
+git clone https://github.com/marin-zdunic/mpg-fuel-prediction-app.git
+cd mpg-fuel-prediction-app
+```
 2. Otvoriti u Visual Studio (preporučeno VS 2022).
 
 3. Pokrenuti projekt:

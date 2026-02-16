@@ -1,11 +1,11 @@
-# MPG Predictor Windows Forms App
+# MPG Predictor App
 
-Aplikacija za predikciju MPG | km/l vrijednosti.
+Aplikacija za predikciju MPG | km/l vrijednosti automobila.
 
 ---
 
 ## Pokretanje
-1. Klonirajte repo:
+1. Kloniranje repo-a:
 ```bash
 git clone https://github.com/marin-zdunic/mpg-fuel-prediction-app.git
 cd mpg-fuel-prediction-app
@@ -14,8 +14,8 @@ cd mpg-fuel-prediction-app
 
 3. Pokrenuti projekt:
 
-    Postavite MPG_UI kao startup projekt
+    Postaviti MPG_UI kao startup projekt
 
-    Pritisnite F5 ili kliknite Start
+    Pritisnuti F5 ili kliknuti Start
 
 4. Aplikacija će se povezati s Azure ML endpointom preko API key-a i URI-ja.
